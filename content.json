@@ -1,0 +1,68 @@
+{
+  "site_name": "Gemeinschaftspraxis Dres. Ulrich Bertrams und Elisabeth",
+  "branche": "Zahnarzt",
+  "stadt": "Waldshut-Tiengen",
+  "telefon": "",
+  "email": "",
+  "adresse": "Albert-Gebhardt-Str. 28 79761 Waldshut-Tiengen (Tiengen)",
+  "akzent": "#FFD700",
+  "fotos": [
+    "/static/img/gal_ph1.svg",
+    "/static/img/gal_ph2.svg",
+    "/static/img/gal_ph3.svg"
+  ],
+  "hero_image": "/static/img/hero.png",
+  "headline": "Zahnärzte für Waldshut-Tiengen",
+  "subline": "Professionelle Zahnversorgung in Ihrer Nähe.",
+  "ueber_titel": "Gemeinschaftspraxis Dres. Ulrich Bertrams und Elisabeth",
+  "ueber_text": "Unsere kleine, vertrauenswürdige Praxis bietet individuelle Zahnärzte-Betreuung für die Einwohner von Waldshut-Tiengen.",
+  "leistungen": [
+    {
+      "titel": "Zahnpflege",
+      "text": "Sorgfältige Reinigungsprozeduren, um Ihre Zähne und Zahnfleisch gesund zu halten."
+    },
+    {
+      "titel": "Kieferorthopädie",
+      "text": "Spezialisiert auf die Behandlung von Zahnerscheinungen bei Kindern."
+    },
+    {
+      "titel": "Implantate",
+      "text": "Stabile und natürliche Ersatzlösungen für fehlende Zähne."
+    }
+  ],
+  "cta_text": "Termin vereinbaren",
+  "seo_title": "Gemeinschaftspraxis Dres. Ulrich Bertrams und Elisabeth - Waldshut-Tiengen",
+  "seo_desc": "Die Gemeinschaftspraxis bietet hochwertige Zahnärzte-Betreuung in Waldshut-Tiengen.",
+  "jahr": 2026,
+  "hero_source": "template",
+  "hero_template": "zahnarzt.jpg",
+  "rechner": {
+    "titel": "Kostenrechner",
+    "untertitel": "Unverbindliche Sofort-Schätzung",
+    "posten": [
+      {
+        "name": "Professionelle Zahnreinigung",
+        "ab": 80,
+        "bis": 150
+      },
+      {
+        "name": "Bleaching",
+        "ab": 300,
+        "bis": 700
+      },
+      {
+        "name": "Implantat (Richtwert)",
+        "ab": 1800,
+        "bis": 3500
+      }
+    ],
+    "hinweis": "Grobe Orientierung — Ihr genaues, kostenloses Angebot erstellen wir nach kurzer Rücksprache."
+  },
+  "site_version": "1.0",
+  "font_display": "Poppins",
+  "font_body": "Inter",
+  "taste_applied": true,
+  "about_image": "/static/img/about_ph.svg",
+  "placeholder_images": true,
+  "hero_refresh_version": 7
+}
