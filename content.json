@@ -110,5 +110,9 @@
     "Langjährige Erfahrung in der Gemeinde Waldshut-Tiengen",
     "Angenehmes Umfeld und freundlicher Service"
   ],
-  "content_enriched": true
+  "content_enriched": true,
+  "makeover_stages": [
+    "lokal"
+  ],
+  "makeover_version": 7
 }
